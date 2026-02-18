@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://github.com/codespaces/obscure-xylophone-r4p6jggggvv5f5vjw"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Codespace link (respositorie isn't vinculated for some reason)"></a>
 </p>
+Launch the codespace with "php artisan serve" command on the terminal.
 
 ## About The Project
 
